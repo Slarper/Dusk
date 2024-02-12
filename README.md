@@ -1,7 +1,7 @@
 # Install
 
-- Put it into `<Ur d2 path>/mods/Dusk`.  For example
- `D:\Blizzard Games\Diablo II Resurrected\mods\Dusk\Dusk.mpq\...`
+- Put it into `<Ur d2 path>/mods/Dusk`.  
+For example `D:\Blizzard Games\Diablo II Resurrected\mods\Dusk\Dusk.mpq\...`
 - Add ` -mod Dusk` to ur launcher parameters.
 
 # Original
