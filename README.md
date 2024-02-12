@@ -1,3 +1,13 @@
+# What's it?
+
+
+ A (maybe) ladder-safe quality-of-life mod, including:
+
+- item tips
+- item filter
+- text enhancement (colorful text)
+- highlight in map
+
 # Install
 
 - Put it into `<Ur d2 path>/mods/Dusk`.  
