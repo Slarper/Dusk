@@ -14,6 +14,9 @@
 For example `D:\Blizzard Games\Diablo II Resurrected\mods\Dusk\Dusk.mpq\...`
 - Add ` -mod Dusk` to ur launcher parameters.
 
+# Tutorial
+[click to go to tutorial](tutorial/index.md)
+
 # Original
 
 by uskAshes ちゃん: https://nga.178.com/read.php?tid=32270980
