@@ -1,0 +1,9 @@
+enUS: exocetblizzardot-medium.otf
+zhTW: arfangxinshuh7c95b5_eb_t.ttf
+zhCN: blizzardglobal-v5_81.ttf
+Global: blizzardglobal-v5_81.ttf
+Global Unicode: blizzardglobaltcunicode.ttf
+
+
+
+浪漫雅圆+图标.ttf 和 方正粗活意+Exocet+图标 是可选字体，要用哪个就将哪个设为blizzardglobal-v5_81.ttf
