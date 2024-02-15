@@ -2,8 +2,8 @@
   {
     "id": 1723,
     "Key": "Low Quality",
-    "enUS": "ÿc1Low Quality",
-    "zhTW.": "ÿc1劣等的",
+    "enUS": "ÿc1",
+    "zhTW.": "ÿc1",
     "deDE": "[ms]schlechter[fs]schlechte[ns]schlechtes[pl]schlechte",
     "esES": "de baja calidad",
     "frFR": "de faible qualité",
@@ -14,13 +14,13 @@
     "jaJP": "粗悪な",
     "ptBR": "[fs]Ordinária[ms]Ordinário[fp]Ordinárias[ms]Ordinários",
     "ruRU": "[ms]некачественный[fs]некачественная[ns]некачественное[pl]некачественные",
-    "zhTW": "ÿc1劣质"
+    "zhTW": "ÿc1"
   },
   {
     "id": 1724,
     "Key": "Damaged",
-    "enUS": "ÿc1Damaged",
-    "zhTW.": "ÿc1損壞的",
+    "enUS": "ÿc1",
+    "zhTW.": "ÿc1",
     "deDE": "[ms]beschädigter[fs]beschädigte[ns]beschädigtes[pl]beschädigte",
     "esES": "[fs]dañada[ms]dañado[fp]dañadas[mp]dañados",
     "frFR": "[ms]endommagé[fs]endommagée[mp]endommagés[fp]endommagées",
@@ -31,13 +31,13 @@
     "jaJP": "損傷した",
     "ptBR": "[ms]Danificado[mp]Danificados[fs]Danificada[fp]Danificadas",
     "ruRU": "[ms]поврежденный[fs]поврежденная[ns]поврежденное[pl]поврежденные",
-    "zhTW": "ÿc1破损"
+    "zhTW": "ÿc1"
   },
   {
     "id": 1725,
     "Key": "Cracked",
-    "enUS": "ÿc1Cracked",
-    "zhTW.": "ÿc1破舊的",
+    "enUS": "ÿc1",
+    "zhTW.": "ÿc1",
     "deDE": "[ms]rissiger[fs]rissige[ns]rissiges[pl]rissige",
     "esES": "[fs]agrietada[ms]agrietado[fp]agrietadas[mp]agrietados",
     "frFR": "[ms]craquelé[fs]craquelée[mp]craquelés[fp]craquelées",
@@ -48,7 +48,7 @@
     "jaJP": "ひび割れた",
     "ptBR": "[ms]Rachado[mp]Rachados[fs]Rachada[fp]Rachadas",
     "ruRU": "[ms]треснувший[fs]треснувшая[ns]треснувшее[pl]треснувшие",
-    "zhTW": "ÿc1裂纹"
+    "zhTW": "ÿc1"
   },
   {
     "id": 1727,
